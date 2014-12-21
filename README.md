@@ -1,5 +1,5 @@
 **About:**
-A live wallpaper simulating conways game of life.
+A live wallpaper simulating Conway's game of life.
 
 **Rules:**
 First image shows old state and the second shows new state.
